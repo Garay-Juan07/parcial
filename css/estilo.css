@@ -1,0 +1,42 @@
+.divcontenedor {
+   
+   padding: 30px;
+   text-align: end;
+   text-decoration: none;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.imagen{
+    display: flex;
+    align-items: normal;
+    width: 200px;
+    height: 150px;
+    align-items: end;
+    font-size: 20px;
+}
+.contenedor2{
+    padding: 20px;
+    font-size: 40px;
+    background-color: black;
+}
+.seis{
+    width: 300px;
+}
+    
+.uno{
+    padding: 30px;
+}
+.dos{
+    padding: 30px;
+}
+.tres{
+    padding: 30px;
+}
+.cuatro{
+    padding: 30px;
+}
+.cinco{
+    padding: 30px;
+}
+.seis{
+    padding: 30px;
+}
